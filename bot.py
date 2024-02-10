@@ -18,7 +18,7 @@ app = Client(
 )
 
 gif = [
-    ''
+    'https://telegra.ph/file/aa7f381cb551afed16f38.jpg'
 ]
 
 
